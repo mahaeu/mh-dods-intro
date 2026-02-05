@@ -39,6 +39,8 @@ dfa.summary()
 dfa.analyze_distributions()
 dfa.analyze_categoricals()
 dfa.analyze_relations()
+dfa.analyze_missing()
+dfa.analyze_outliers()
 ```
 
 Optional Parameters are described at the end of the output of
